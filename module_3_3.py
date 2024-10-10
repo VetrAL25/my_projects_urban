@@ -1,6 +1,5 @@
 def print_params (a = 1, b  = 'строка', c = True):
     print(a, b, c)
-#
 print('Функция с параметрами по умолчанию:')
 print_params()
 print_params(b = 25)
