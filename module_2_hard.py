@@ -1,6 +1,5 @@
 from random import randint
 number = randint(3, 20)
-#print(number)
 def get_password(number_):
     password = ''
     for i in range(1, 20):
